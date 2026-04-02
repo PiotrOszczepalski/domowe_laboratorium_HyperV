@@ -4,7 +4,7 @@ Domowe Laboratorium | Hyper-V + Windows Server 2016 + Windows 10
 
 Projekt domowego laboratorium w celu nauki administracji systemami Windows oraz zapoznania się z narzędziem do wirtualizacji Hyper-V. Utworzyłem środowisko wirtualne w Hyper-V na moim komputerze osobistym z systemem Windows 10 Pro, składające się z serwera Windows Server 2016 oraz maszyny klienckiej Windows 10.
 
-Cel projektu: utworzenie maszyn wirtualnych (wirtualne dyski, karty sieciowe, przydzielenie zasobów procesora i pamięci, instalacja systemów), instalacja Active Directory na serwerze i podłączenie klienta do domeny (użytkownicy, grupy, zasady grupy, profil mobilny, udostępnienie zasobów dyskowych), konfiguracja usługi DHCP oraz Routingu (żeby klient miał dostęp do internetu), konfiguracja DNS oraz serwera WWW, snapshoty/checkpointy w Hyper-V.
+Cel projektu: utworzenie maszyn wirtualnych (wirtualne dyski, karty sieciowe, przydzielenie zasobów procesora i pamięci, instalacja systemów), instalacja Active Directory na serwerze i podłączenie klienta do domeny (użytkownicy, grupy, zasady grupy, profil mobilny, udostępnienie zasobów dyskowych), konfiguracja usług DHCP oraz Routingu (żeby klient miał dostęp do internetu), konfiguracja DNS oraz serwera WWW, snapshoty/checkpointy w Hyper-V.
 
 1. Konfiguracja Hyper-V:
    - utworzenie maszyn oraz dysków wirtualnych
